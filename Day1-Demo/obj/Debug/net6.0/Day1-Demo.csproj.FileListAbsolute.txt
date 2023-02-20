@@ -1,0 +1,15 @@
+C:\Demos\Dotnet Specialization 2023\C#\Day1-Demo\bin\Debug\net6.0\Day1-Demo.exe
+C:\Demos\Dotnet Specialization 2023\C#\Day1-Demo\bin\Debug\net6.0\Day1-Demo.deps.json
+C:\Demos\Dotnet Specialization 2023\C#\Day1-Demo\bin\Debug\net6.0\Day1-Demo.runtimeconfig.json
+C:\Demos\Dotnet Specialization 2023\C#\Day1-Demo\bin\Debug\net6.0\Day1-Demo.dll
+C:\Demos\Dotnet Specialization 2023\C#\Day1-Demo\bin\Debug\net6.0\Day1-Demo.pdb
+C:\Demos\Dotnet Specialization 2023\C#\Day1-Demo\obj\Debug\net6.0\Day1-Demo.csproj.AssemblyReference.cache
+C:\Demos\Dotnet Specialization 2023\C#\Day1-Demo\obj\Debug\net6.0\Day1-Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\Dotnet Specialization 2023\C#\Day1-Demo\obj\Debug\net6.0\Day1-Demo.AssemblyInfoInputs.cache
+C:\Demos\Dotnet Specialization 2023\C#\Day1-Demo\obj\Debug\net6.0\Day1-Demo.AssemblyInfo.cs
+C:\Demos\Dotnet Specialization 2023\C#\Day1-Demo\obj\Debug\net6.0\Day1-Demo.csproj.CoreCompileInputs.cache
+C:\Demos\Dotnet Specialization 2023\C#\Day1-Demo\obj\Debug\net6.0\Day1-Demo.dll
+C:\Demos\Dotnet Specialization 2023\C#\Day1-Demo\obj\Debug\net6.0\refint\Day1-Demo.dll
+C:\Demos\Dotnet Specialization 2023\C#\Day1-Demo\obj\Debug\net6.0\Day1-Demo.pdb
+C:\Demos\Dotnet Specialization 2023\C#\Day1-Demo\obj\Debug\net6.0\Day1-Demo.genruntimeconfig.cache
+C:\Demos\Dotnet Specialization 2023\C#\Day1-Demo\obj\Debug\net6.0\ref\Day1-Demo.dll
