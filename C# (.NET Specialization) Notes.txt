@@ -1,0 +1,114 @@
+
+.NET Framework v/s .NET (.NET Core)
+
+In 2015, Microsoft open-sourced the .Net Framework and named it as .NET Core
+
+.NET Core is latest version of .NET 
+It has re-written from scratch making the framework light-weight and fast in nature  
+It is cross-platform in nature 
+
+.Net Core 1.0,1.1,2.0,2.1,2.2,3.0,3.1 (Deprecated)
+
+In 2020
+
+.NET 5 - Unified Framework (.Net Framwork + .NET Core) (Deprecated)
+
+.NET 6 - Unified Framework
+
+.NET 7 - Unified Framework
+
+C#
+--
+C# is modern,general-purpose, object-orieneted and type-safe programming language.
+It enable us to build different type of application(Desktop, Web, Cloud, Mobile, IOT etc...)
+It is simple and easy learn 
+It run on .NET Framework as well as on .NET (.NET Core)
+It was developed by Andres Hejlsberg
+It is also know as component-oriented language 
+
+Basic C# Program 
+-----------------
+using System; // Namespace 
+
+class Sample //class
+{
+	public static void Main(string [] args)
+	{
+		Console.WriteLine("Welcome to C#");
+	}
+}
+
+Visual Studio 2022 (Professional/Enterprise) (Community Edition)
+Visual Studio for Mac
+
+Visual Stduio Code + .NET SDK 6 + C# Extension 
+
+dotnet tool - unified CLI tool for creating , managing project, testing ....
+
+dotnet new <<project-type>>	
+
+dotnet add package <<package-name>>
+
+dotnet --list-sdks :- to list all the sdks installed your system 
+dotnet --list-runtimes :- to list all the runtime installed your system
+
+dotnet --info 
+
+dotnet new console -f net6.0 --use-program-main
+
+dotnet build :- compile the code 
+
+dotnet run :- to run or execute the application
+
+DataType and Variables 
+----------------------
+Datatypes helps computer understand that what type of data has to be stored in the memory location 
+It also provides the information how much memory has to be occupied and what all operations are allowed on that data types
+
+Variables are the name given to the memory location
+
+System.Object is the parent for all the data types 
+
+Value Type Data 
+---------------
+In this, memory location itself contains the data
+They place on stack 
+Any assignment to these type ,will copy data into a new memory location 
+At the end program all the value type data is removed from memory 
+
+	int x = 10;
+	
+	int y =  x;
+	
+Integral Data (Integer)
+	byte 
+	short
+	int
+	long
+	
+Floating Point Data 
+	float 
+	double 
+	decimal
+	
+Boolean - bool
+
+Characters - char 
+
+Structures and Enums 
+
+Reference Type Data 
+-------------------
+In this, memory location contains the reference of the data 
+The actual data is stored in a heap structure where as the reference of the heap is stored on the variable's memory location 
+Any assignment done to this type will copy , reference of the data into the memory location
+At the end of the program execution, reference type data is not removed from the memory (grabage collection or destructor)
+	
+	String 
+	Classes and Object 
+	Collections 
+	Arrays 
+	
+	String name ="Malcolm";
+	
+	String newname= name;
