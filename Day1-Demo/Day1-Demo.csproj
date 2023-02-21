@@ -5,8 +5,8 @@
     <TargetFramework>net6.0</TargetFramework>
     <RootNamespace>Day1_Demo</RootNamespace>
     <ImplicitUsings>disable</ImplicitUsings>
-    <Nullable>enable</Nullable>
-    <StartupObject>Day1_Demo.Program02</StartupObject>
+    <Nullable>disable</Nullable>
+    <StartupObject>Day1_Demo.Program04</StartupObject>
   </PropertyGroup>
 
 </Project>

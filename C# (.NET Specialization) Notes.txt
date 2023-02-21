@@ -112,3 +112,129 @@ At the end of the program execution, reference type data is not removed from the
 	String name ="Malcolm";
 	
 	String newname= name;
+	
+Ternary Operator (Simpleified version of if-else)
+
+	(condition)?"Statement1":"Statement2"
+
+Accepting the input from user :- Console.ReadLine() - String 
+
+Convert Class :- This class provides method to convert values from one datatype to another datatype 
+
+	Convert.ToInt32()
+	Convert.ToInt64()
+	Convert.ToSingle()
+	.
+	.
+	.
+	
+Displaying Value in Console 
+---------------------------
+Concatenation(+)
+	Console.WriteLine("Name = "+name+", Age = "+age);
+	
+Place Holder 
+	name = "Vijay" , age =32
+	
+	Console.WriteLine("Name = {0} , Age = {1}",name,age);
+	
+String Interpolation
+	name = "Vijay" , age =32
+	
+	Console.WriteLine("Name = {name} , Age = {age}");
+	
+Nullable Types 
+--------------
+Nullable Types allows you to store null value in the value type variables 
+
+string name = null; //allowed
+int x = null; //error 
+
+We can create the null types using the following syntax
+
+	1) ? 
+		datatype? variablename;
+		
+		int? x;
+	
+	2)Nullable<data-type>
+	
+		Nullable<bool> status= null
+		
+	HasValue - It will help you check whether the variable is having some data or not
+	
+Implicitly Typed Variables 
+--------------------------
+	datatype variablename;
+	
+	int x; x=10;
+	
+	x="abc";
+	
+In Implicitly typed variable we use "var" keyword to create a varaible.
+The data type of the variable is decided based on the value assigned to the variable 
+
+	var variablename= value;
+	
+	var id =101; //Integer 
+	var name ="Vijay";//String 
+	var obj = new Car();// car object 
+	
+	var result = from data in collection 
+			     select data;
+				 
+	var result =(from data in collection 
+				 where data.category == "somevalue"
+				 select data).FirstOrDefault();
+				 
+These variable should be intialized while creating them
+They cannnot have null values as compile time 
+
+Programming Constructs
+----------------------
+Decision Making 
+	If - Condition 
+	
+		If 
+		If-else
+		If-elseif-else 
+		Nested If
+		
+		Logical Operators AND (&&) , OR (||), NOT (!)
+		
+Case Control Structure 
+
+	Switch 
+	
+Loops 
+	While 
+	Do-While 
+	For 
+	
+	ForEach (Arrays and Collections)
+	
+Arrays
+------
+Arrays allows us to store multiple values of similar type into a single variables.
+The values in the array can be accessed by index number 
+
+	num[0]
+	num[2]
+	
+In .NET, when you create an array(Single-Dimensional Array or Multi-Dimesional) it is automatically mapped to the System.Array Class 
+
+System.Array class provide properties and method to manipulate array 
+
+Single-Dimensional Array 
+------------------------
+datatype [] arrayname = new datatype[size]
+
+int [] num = new int[10];
+
+int [] num = {value1,value2,value3....};
+
+Double-Dimensional Array 
+------------------------
+datatype [,] arrayname = new datatype[rows,cols];
+
+datatype [,] arrayname = { {}, {},{}.... }
