@@ -1,0 +1,15 @@
+C:\Demos\Dotnet Specialization 2023\C#\Day3-OOP-Demo\bin\Debug\net6.0\Day3-OOP-Demo.exe
+C:\Demos\Dotnet Specialization 2023\C#\Day3-OOP-Demo\bin\Debug\net6.0\Day3-OOP-Demo.deps.json
+C:\Demos\Dotnet Specialization 2023\C#\Day3-OOP-Demo\bin\Debug\net6.0\Day3-OOP-Demo.runtimeconfig.json
+C:\Demos\Dotnet Specialization 2023\C#\Day3-OOP-Demo\bin\Debug\net6.0\Day3-OOP-Demo.dll
+C:\Demos\Dotnet Specialization 2023\C#\Day3-OOP-Demo\bin\Debug\net6.0\Day3-OOP-Demo.pdb
+C:\Demos\Dotnet Specialization 2023\C#\Day3-OOP-Demo\obj\Debug\net6.0\Day3-OOP-Demo.csproj.AssemblyReference.cache
+C:\Demos\Dotnet Specialization 2023\C#\Day3-OOP-Demo\obj\Debug\net6.0\Day3-OOP-Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\Dotnet Specialization 2023\C#\Day3-OOP-Demo\obj\Debug\net6.0\Day3-OOP-Demo.AssemblyInfoInputs.cache
+C:\Demos\Dotnet Specialization 2023\C#\Day3-OOP-Demo\obj\Debug\net6.0\Day3-OOP-Demo.AssemblyInfo.cs
+C:\Demos\Dotnet Specialization 2023\C#\Day3-OOP-Demo\obj\Debug\net6.0\Day3-OOP-Demo.csproj.CoreCompileInputs.cache
+C:\Demos\Dotnet Specialization 2023\C#\Day3-OOP-Demo\obj\Debug\net6.0\Day3-OOP-Demo.dll
+C:\Demos\Dotnet Specialization 2023\C#\Day3-OOP-Demo\obj\Debug\net6.0\refint\Day3-OOP-Demo.dll
+C:\Demos\Dotnet Specialization 2023\C#\Day3-OOP-Demo\obj\Debug\net6.0\Day3-OOP-Demo.pdb
+C:\Demos\Dotnet Specialization 2023\C#\Day3-OOP-Demo\obj\Debug\net6.0\Day3-OOP-Demo.genruntimeconfig.cache
+C:\Demos\Dotnet Specialization 2023\C#\Day3-OOP-Demo\obj\Debug\net6.0\ref\Day3-OOP-Demo.dll

@@ -238,3 +238,225 @@ Double-Dimensional Array
 datatype [,] arrayname = new datatype[rows,cols];
 
 datatype [,] arrayname = { {}, {},{}.... }
+
+What is Object Oriented Programming (OOP) ?
+--------------------------------------------
+OOP is programming paradigm which is based on the concept of objects
+
+Objects are real-world entities , every object contains data in the form of fields and logic in the form of functions or methods 
+
+Classes 
+Object 
+Data Encapsulation 
+Data Abstraction 
+Inheritance 
+Polymorphism 
+
+Class
+-----
+Class acts as a blueprint or template for creating objects.
+
+Class is user-defined data type which consist of other data types(fields) and methods to manipulate those data-type.
+
+	Car Class 
+	---------
+		Model 
+		Year
+		Color 
+		Manufacturer
+		FuelType
+		
+		SetCarDetails() 
+		GetCarDetails()
+		Accelrate()
+		Turn()
+		ApplyBrake()
+		Horn()
+		
+Object
+------
+Object is a variable or instance of type class.
+Every object will have its own copy of data members(fields).
+
+Data Encapsulation
+------------------
+It deals with information hiding 
+
+Binding the variable and methods to manipulate those variables into a single unit knows as class is called data encapsulation.
+
+We achieve data encapsulation by using the private access modifier 
+
+Data Abstraction
+----------------
+Process of providing the user with the required information without letting them know the background processing or implementation
+
+Comments in C#
+--------------
+Single-Line Comments :- //Comment
+
+Multi-Line Comments :- /* Comment */
+
+XML Comments (Document) :- ///
+	VS - It is bydefault enabled 
+	VS Code - C# XML Comment 
+	
+Acccess Specifier 
+-----------------
+Public 
+Private 
+Protected
+Internal
+Protected Internal 
+
+Polymorphism
+------------
+Using Polymorphism one object can have many forms 
+
+	One Object ---> Many Forms 
+	
+	"+" operator --> When used with number , returns sum of numbers
+					 When used with Strings, perform concatenation 
+					 
+    Person Object 
+	
+Compile/Static-Polymorphism (Overloading)
+-----------------------------------------
+Method Overloading
+Constructor Overloading 
+Operator Overloading
+
+Runtime/Dynamic-Polymorphism (Overriding)
+-----------------------------------------
+Virtual Function/Methods
+
+Properties 
+----------
+class Product
+{
+	int id;
+	string name;
+	double price;
+	
+	id--> GetId(),SetId()
+	name-->GetName(),SetName()
+	price-->GetPrice(),SetPrice()
+}
+
+syntax
+------
+access-specifier data-type PropertyName
+{
+	get
+	{
+		return _datamember;
+	}
+	
+	set
+	{
+		_datamember= value;
+	}
+}
+
+public int Id
+{
+	get
+	{	
+		return Id;
+	}
+	
+	set
+	{
+		Id=value;
+	}	
+}
+
+Product p=new Product();
+p.Id =101;//Set 
+Console.WriteLine(p.Id);//Get
+
+GET - SET --> Read-Write Property
+GET --> Read-Only Property
+SET --> Write-Only Property
+
+Auto-Implemented Property
+-------------------------
+Auto-Implemented Property allows you to create a property without a backing/data member field 
+The backing fields is created and managed by CLR
+Auto-Implemented Property consist of get and set declaration, there is no need of specifying body for the get and set 
+
+Syntax 
+------
+access-specifier data-type PropertyName {get;set;}
+
+public int ProductId {get;set;}
+
+Indexers
+--------
+class Sample
+{
+	private int [] numbers=new int[10];
+}
+
+Sample s = new Sample();
+
+	s[0]=10;
+	s[2]=30;
+	
+Indexers allows an object of a class to behave as an array 
+Indexers are similar to properties with few differences 
+	-An indexer takes an argument 
+	-An indexer uses this keyword instead of name 
+	
+access-specifier data-type this[index]
+{
+	get 
+	{}
+	
+	set
+	{}
+}
+
+Static 
+------
+Static means something which cannot be initialized
+Static is a modifier which can be applied to classes, variables, methods, constructors, property, events etc
+
+Static Class 
+------------
+A Static class can be declaraed using the static keyword
+It can only contain static data members, method and constructors
+We cannot create instance or object of a static class
+We cannot inherit a static class as they sealed in nature by default 
+
+Static Variables
+----------------
+Only one copy of the variable is created and shared among multiple objects at the class level
+
+Static Methods 
+--------------
+Static methods are accessible by class name 
+It can access static and non-static fields 
+
+Static Constructor
+------------------
+It is invoked once per class and its called while creating the first static member of the class 
+It can be used to initiliaze static fields of the class
+You cannot specify access specifier and parameters to this constructor
+
+Inheritance
+-----------
+Inheritance allows onc class to access the properties of the other class
+It support re-usability and save developers time by extending the existing with new set of features.
+In Inheritance, all the public members of the parent or base class are inherited by the child or derived class
+
+Types of Inheritance
+--------------------
+Single 
+Multi-Level 
+Multiple 
+Hybrid
+Heirarichal 
+
+Generalization (Base) 
+
+Specialization (Derived)
