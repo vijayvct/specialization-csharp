@@ -6,6 +6,7 @@
     <RootNamespace>Day4_Inheritance_Demo</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>disable</Nullable>
+    <StartupObject>Day4_Inheritance_Demo.Program06</StartupObject>
   </PropertyGroup>
 
 </Project>

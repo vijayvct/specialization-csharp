@@ -1,0 +1,15 @@
+C:\Demos\Dotnet Specialization 2023\C#\Day4-Inheritance-Demo\bin\Debug\net6.0\Day4-Inheritance-Demo.exe
+C:\Demos\Dotnet Specialization 2023\C#\Day4-Inheritance-Demo\bin\Debug\net6.0\Day4-Inheritance-Demo.deps.json
+C:\Demos\Dotnet Specialization 2023\C#\Day4-Inheritance-Demo\bin\Debug\net6.0\Day4-Inheritance-Demo.runtimeconfig.json
+C:\Demos\Dotnet Specialization 2023\C#\Day4-Inheritance-Demo\bin\Debug\net6.0\Day4-Inheritance-Demo.dll
+C:\Demos\Dotnet Specialization 2023\C#\Day4-Inheritance-Demo\bin\Debug\net6.0\Day4-Inheritance-Demo.pdb
+C:\Demos\Dotnet Specialization 2023\C#\Day4-Inheritance-Demo\obj\Debug\net6.0\Day4-Inheritance-Demo.csproj.AssemblyReference.cache
+C:\Demos\Dotnet Specialization 2023\C#\Day4-Inheritance-Demo\obj\Debug\net6.0\Day4-Inheritance-Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\Dotnet Specialization 2023\C#\Day4-Inheritance-Demo\obj\Debug\net6.0\Day4-Inheritance-Demo.AssemblyInfoInputs.cache
+C:\Demos\Dotnet Specialization 2023\C#\Day4-Inheritance-Demo\obj\Debug\net6.0\Day4-Inheritance-Demo.AssemblyInfo.cs
+C:\Demos\Dotnet Specialization 2023\C#\Day4-Inheritance-Demo\obj\Debug\net6.0\Day4-Inheritance-Demo.csproj.CoreCompileInputs.cache
+C:\Demos\Dotnet Specialization 2023\C#\Day4-Inheritance-Demo\obj\Debug\net6.0\Day4-Inheritance-Demo.dll
+C:\Demos\Dotnet Specialization 2023\C#\Day4-Inheritance-Demo\obj\Debug\net6.0\refint\Day4-Inheritance-Demo.dll
+C:\Demos\Dotnet Specialization 2023\C#\Day4-Inheritance-Demo\obj\Debug\net6.0\Day4-Inheritance-Demo.pdb
+C:\Demos\Dotnet Specialization 2023\C#\Day4-Inheritance-Demo\obj\Debug\net6.0\Day4-Inheritance-Demo.genruntimeconfig.cache
+C:\Demos\Dotnet Specialization 2023\C#\Day4-Inheritance-Demo\obj\Debug\net6.0\ref\Day4-Inheritance-Demo.dll

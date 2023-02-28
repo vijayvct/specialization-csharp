@@ -460,3 +460,24 @@ Heirarichal
 Generalization (Base) 
 
 Specialization (Derived)
+
+Access Specifiers 
+-----------------
+Public
+Private 
+Protected 
+Internal 
+Protected Internal 
+
+Do Constructor Participate in Inheritance ? - Yes
+
+If parent and child both classes has got parameterless constructor, while creating the object of the child class , the child constructor will automatically invokes the base class constructor
+
+Abstract Class 
+--------------
+Abstract classes are incomplete class 
+We cannot create an object of an Abstract class 
+It will always acts as base class 
+It can contain data member, constructors, properties, methods(concrete, virtual and abstract)
+
+The child implements all the abstract member of the abstract class
