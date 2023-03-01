@@ -1,0 +1,15 @@
+C:\Demos\Dotnet Specialization 2023\C#\Day5-Exception-Demo\bin\Debug\net6.0\Day5-Exception-Demo.exe
+C:\Demos\Dotnet Specialization 2023\C#\Day5-Exception-Demo\bin\Debug\net6.0\Day5-Exception-Demo.deps.json
+C:\Demos\Dotnet Specialization 2023\C#\Day5-Exception-Demo\bin\Debug\net6.0\Day5-Exception-Demo.runtimeconfig.json
+C:\Demos\Dotnet Specialization 2023\C#\Day5-Exception-Demo\bin\Debug\net6.0\Day5-Exception-Demo.dll
+C:\Demos\Dotnet Specialization 2023\C#\Day5-Exception-Demo\bin\Debug\net6.0\Day5-Exception-Demo.pdb
+C:\Demos\Dotnet Specialization 2023\C#\Day5-Exception-Demo\obj\Debug\net6.0\Day5-Exception-Demo.csproj.AssemblyReference.cache
+C:\Demos\Dotnet Specialization 2023\C#\Day5-Exception-Demo\obj\Debug\net6.0\Day5-Exception-Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\Dotnet Specialization 2023\C#\Day5-Exception-Demo\obj\Debug\net6.0\Day5-Exception-Demo.AssemblyInfoInputs.cache
+C:\Demos\Dotnet Specialization 2023\C#\Day5-Exception-Demo\obj\Debug\net6.0\Day5-Exception-Demo.AssemblyInfo.cs
+C:\Demos\Dotnet Specialization 2023\C#\Day5-Exception-Demo\obj\Debug\net6.0\Day5-Exception-Demo.csproj.CoreCompileInputs.cache
+C:\Demos\Dotnet Specialization 2023\C#\Day5-Exception-Demo\obj\Debug\net6.0\Day5-Exception-Demo.dll
+C:\Demos\Dotnet Specialization 2023\C#\Day5-Exception-Demo\obj\Debug\net6.0\refint\Day5-Exception-Demo.dll
+C:\Demos\Dotnet Specialization 2023\C#\Day5-Exception-Demo\obj\Debug\net6.0\Day5-Exception-Demo.pdb
+C:\Demos\Dotnet Specialization 2023\C#\Day5-Exception-Demo\obj\Debug\net6.0\Day5-Exception-Demo.genruntimeconfig.cache
+C:\Demos\Dotnet Specialization 2023\C#\Day5-Exception-Demo\obj\Debug\net6.0\ref\Day5-Exception-Demo.dll

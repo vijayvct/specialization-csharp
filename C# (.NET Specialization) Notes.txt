@@ -481,3 +481,91 @@ It will always acts as base class
 It can contain data member, constructors, properties, methods(concrete, virtual and abstract)
 
 The child implements all the abstract member of the abstract class
+
+Exception Handling 
+------------------
+1) 
+	string name ="Malcolm" - Compile-Time Error 
+	
+	
+2)
+	while(true)
+	{
+		Console.WriteLine("Hello User...");
+	}
+	
+3)
+	int x=100/0; - Run-Time Error (Exception)
+	
+Exception Handling 
+------------------
+
+try - catch 
+
+	try
+	{
+		//statements 
+	}
+	catch(ExceptionType)
+	{
+		//statement 
+	}
+	catch(ExceptionType)
+	{
+		//statement
+	}
+	.
+	.
+	finally
+	{
+		//statement
+	}
+	
+	public void Divide(int x,int y)
+	{
+		if(y==1)
+		{
+			Console.WriteLine("Result = "+(x/y));
+		}
+		else
+		{
+			throw Exception("Divisor Cannot be 0");
+		}
+	}
+	
+	public static void Main(String [] args)
+	{
+		try 
+		{
+			Divide(10,2);
+			Divide(10,0);
+		}
+		catch(Exception ex)
+		{
+			//statement 
+		}
+	}
+	
+Custom Exception Classes 
+------------------------
+It is useful in situation where you want perform some custom logic execution and raise exception if the logic is not satisfied 
+
+Delegates 
+---------
+Delegates are reference types 
+They are similar to function pointer of C or C++
+They are useful in implementing Callback and event handling in .NET 
+
+Steps 
+-----
+1)Delegate Declaration 
+	
+	delegate void MyDelegate();
+	delegate string MyDelegate1(string name);
+	
+2)Delegate Method Declaration 
+
+3)Initialize the delegate 
+
+4)Invoke the method through delegate 
+	
