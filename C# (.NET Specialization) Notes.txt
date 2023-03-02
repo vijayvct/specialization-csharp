@@ -569,3 +569,42 @@ Steps
 
 4)Invoke the method through delegate 
 	
+Types of Delegate 
+-----------------
+-Single Cast Delegate - Single Method in one Delegate object  
+-Multi Cast Delegate - Multiple method in one Delegate Object 
+
+Generics 
+--------
+
+Class to store 2 numeric values 
+
+byte ,short, int, long , float, double, decimal 
+
+Generics were introduced in C# 2.0 with .NET Framework 2.0
+Generic uses the concept of type parameters which all you to create a type without mentioning the exact data type while creating it/
+We specify the datatype at compile when we create the object or onvoking generic methods 
+It provide type-safety 
+
+Generic Constraints 
+-------------------
+Generic Constraints allows you to provide more granular level decision to decide what type of data can be passed as a type parameter
+
+Collections 
+-----------
+Object-Based Collections - System.Collections 
+
+	ArrayList 
+	HashTable
+	Stack 
+	Queue
+	SortedList 
+	
+Generic Collection - System.Collections.Generic 
+
+	List 
+	Stack
+	Queue
+	Dictionary
+	LinkedList 
+	HashSet 
