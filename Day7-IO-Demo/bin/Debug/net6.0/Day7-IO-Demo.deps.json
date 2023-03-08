@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Day7-IO-Demo/1.0.0": {
+        "runtime": {
+          "Day7-IO-Demo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day7-IO-Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
