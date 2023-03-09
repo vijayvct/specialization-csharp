@@ -608,3 +608,59 @@ Generic Collection - System.Collections.Generic
 	Dictionary
 	LinkedList 
 	HashSet 
+	
+File IO 
+	File and FileInfo 
+	Directory and DirectoryInfo 
+	FileStream 
+	StreamReader and StreamWriter 
+	Serialization 
+		Binary 
+		SOAP 
+		XML
+		
+ADO.NET 
+-------
+It is data access technology used for developing data-driven application.
+It support's Connected and Disconnected Architecture 
+
+It uses of data provider for data access 
+
+	Connection
+	Command 
+	DataReader
+	DataAdapter + DataSet 
+	
+.NET Data Provider for SQL Server - System.Data.SqlClient 
+
+	SqlConnection 
+	SqlCommand
+	SqlDataReader
+	SqlDataAdapter 
+	
+.NET Data Provider for Oracle - System.Data.OracleClient 
+
+	OracleConnection
+	OracleCommand 
+	OracleDataReader
+	OracleDataAdapter 
+	
+.
+.
+
+dotnet add package Microsoft.Data.SqlClient --version 5.1.0
+
+connection string 
+
+	"data source=servername or ipaddress;
+	 initial catalog=databasename;
+	 user id=sa;password=Password_123"
+	 
+	 
+Install-Package 
+	 
+dotnet add package Microsoft.Extensions.Configuration 
+dotnet add package Microsoft.Extensions.Configuration.Json
+dotnet add package Microsoft.Extensions.Configuration.CommandLine
+dotnet add package Microsoft.Extensions.Configuration.Binder
+dotnet add package Microsoft.Extensions.Configuration.EnvironmentVariables   
