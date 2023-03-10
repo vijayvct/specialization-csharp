@@ -1,0 +1,15 @@
+C:\Demos\Dotnet Specialization 2023\C#\Day9-TPL-Demo\bin\Debug\net6.0\Day9-TPL-Demo.exe
+C:\Demos\Dotnet Specialization 2023\C#\Day9-TPL-Demo\bin\Debug\net6.0\Day9-TPL-Demo.deps.json
+C:\Demos\Dotnet Specialization 2023\C#\Day9-TPL-Demo\bin\Debug\net6.0\Day9-TPL-Demo.runtimeconfig.json
+C:\Demos\Dotnet Specialization 2023\C#\Day9-TPL-Demo\bin\Debug\net6.0\Day9-TPL-Demo.dll
+C:\Demos\Dotnet Specialization 2023\C#\Day9-TPL-Demo\bin\Debug\net6.0\Day9-TPL-Demo.pdb
+C:\Demos\Dotnet Specialization 2023\C#\Day9-TPL-Demo\obj\Debug\net6.0\Day9-TPL-Demo.csproj.AssemblyReference.cache
+C:\Demos\Dotnet Specialization 2023\C#\Day9-TPL-Demo\obj\Debug\net6.0\Day9-TPL-Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\Dotnet Specialization 2023\C#\Day9-TPL-Demo\obj\Debug\net6.0\Day9-TPL-Demo.AssemblyInfoInputs.cache
+C:\Demos\Dotnet Specialization 2023\C#\Day9-TPL-Demo\obj\Debug\net6.0\Day9-TPL-Demo.AssemblyInfo.cs
+C:\Demos\Dotnet Specialization 2023\C#\Day9-TPL-Demo\obj\Debug\net6.0\Day9-TPL-Demo.csproj.CoreCompileInputs.cache
+C:\Demos\Dotnet Specialization 2023\C#\Day9-TPL-Demo\obj\Debug\net6.0\Day9-TPL-Demo.dll
+C:\Demos\Dotnet Specialization 2023\C#\Day9-TPL-Demo\obj\Debug\net6.0\refint\Day9-TPL-Demo.dll
+C:\Demos\Dotnet Specialization 2023\C#\Day9-TPL-Demo\obj\Debug\net6.0\Day9-TPL-Demo.pdb
+C:\Demos\Dotnet Specialization 2023\C#\Day9-TPL-Demo\obj\Debug\net6.0\Day9-TPL-Demo.genruntimeconfig.cache
+C:\Demos\Dotnet Specialization 2023\C#\Day9-TPL-Demo\obj\Debug\net6.0\ref\Day9-TPL-Demo.dll

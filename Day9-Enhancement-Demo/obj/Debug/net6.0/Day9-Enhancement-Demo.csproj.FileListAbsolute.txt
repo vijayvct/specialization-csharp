@@ -1,0 +1,15 @@
+C:\Demos\Dotnet Specialization 2023\C#\Day9-Enhancement-Demo\bin\Debug\net6.0\Day9-Enhancement-Demo.exe
+C:\Demos\Dotnet Specialization 2023\C#\Day9-Enhancement-Demo\bin\Debug\net6.0\Day9-Enhancement-Demo.deps.json
+C:\Demos\Dotnet Specialization 2023\C#\Day9-Enhancement-Demo\bin\Debug\net6.0\Day9-Enhancement-Demo.runtimeconfig.json
+C:\Demos\Dotnet Specialization 2023\C#\Day9-Enhancement-Demo\bin\Debug\net6.0\Day9-Enhancement-Demo.dll
+C:\Demos\Dotnet Specialization 2023\C#\Day9-Enhancement-Demo\bin\Debug\net6.0\Day9-Enhancement-Demo.pdb
+C:\Demos\Dotnet Specialization 2023\C#\Day9-Enhancement-Demo\obj\Debug\net6.0\Day9-Enhancement-Demo.csproj.AssemblyReference.cache
+C:\Demos\Dotnet Specialization 2023\C#\Day9-Enhancement-Demo\obj\Debug\net6.0\Day9-Enhancement-Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\Dotnet Specialization 2023\C#\Day9-Enhancement-Demo\obj\Debug\net6.0\Day9-Enhancement-Demo.AssemblyInfoInputs.cache
+C:\Demos\Dotnet Specialization 2023\C#\Day9-Enhancement-Demo\obj\Debug\net6.0\Day9-Enhancement-Demo.AssemblyInfo.cs
+C:\Demos\Dotnet Specialization 2023\C#\Day9-Enhancement-Demo\obj\Debug\net6.0\Day9-Enhancement-Demo.csproj.CoreCompileInputs.cache
+C:\Demos\Dotnet Specialization 2023\C#\Day9-Enhancement-Demo\obj\Debug\net6.0\Day9-Enhancement-Demo.dll
+C:\Demos\Dotnet Specialization 2023\C#\Day9-Enhancement-Demo\obj\Debug\net6.0\refint\Day9-Enhancement-Demo.dll
+C:\Demos\Dotnet Specialization 2023\C#\Day9-Enhancement-Demo\obj\Debug\net6.0\Day9-Enhancement-Demo.pdb
+C:\Demos\Dotnet Specialization 2023\C#\Day9-Enhancement-Demo\obj\Debug\net6.0\Day9-Enhancement-Demo.genruntimeconfig.cache
+C:\Demos\Dotnet Specialization 2023\C#\Day9-Enhancement-Demo\obj\Debug\net6.0\ref\Day9-Enhancement-Demo.dll
