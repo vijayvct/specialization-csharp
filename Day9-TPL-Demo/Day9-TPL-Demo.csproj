@@ -6,7 +6,7 @@
     <RootNamespace>Day9_TPL_Demo</RootNamespace>
     <ImplicitUsings>disable</ImplicitUsings>
     <Nullable>disable</Nullable>
-    <StartupObject>Day9_TPL_Demo.Program04</StartupObject>
+    <StartupObject>Day9_TPL_Demo.Program10</StartupObject>
   </PropertyGroup>
 
 </Project>
